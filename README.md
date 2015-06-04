@@ -1,2 +1,2 @@
-# LEARNING-PHYTON
-Me learning basics of Phyton
+# LEARNING-PHYTHON
+Me learning basics of Python
